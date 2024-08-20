@@ -1,60 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Children's Tasks Home Page</title>
-    <link rel="stylesheet" href="style.css">
-    
-    <script src="nav.js"></script>
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- Navigation Bar Script -->
+    <script src="/nav.js"></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+
+    <script src="/nav.js"></script>
+    <script src="/footer.js"></script>
 </head>
+
 <body>
-        
-        <!-- Placeholder where the navigation will be injected -->
-        <div id="nav-placeholder"></div>
-        <div class="grid">
-    <div class="container">
+
+    <!-- Placeholder where the navigation will be injected -->
+    <div id="nav-placeholder"></div>
+
+    <!-- Main Content -->
+    <div class="grid">
+
+        <div class="container">
 
             <!-- Creativity and Entertainment Tasks Card -->
-            <div class="card">
-                <img src="categories/creativity-tasks/creativity-tasks.jpg" alt="Creativity and Entertainment Tasks">
+            <a href="/creativity-tasks/" class="card">
+                <img src="/creativity-tasks/images/creativity-tasks.jpg" alt="Creativity and Entertainment Tasks">
                 <h2>Creativity and Entertainment Tasks</h2>
                 <p>Engage in fun and creative activities that spark imagination and joy.</p>
-                <a href="categories/creativity-tasks/">View Tasks</a>
-            </div>
-            
-            <!-- Add other task category cards here -->
-            <div class="card">
-                <img src="learning-tasks.jpg" alt="Learning Tasks">
+            </a>
+
+            <!-- Learning Tasks Card -->
+            <a href="/learning-tasks/" class="card">
+                <img src="learning-tasks/images/learning-tasks.jpg" alt="Learning Tasks">
                 <h2>Learning Tasks</h2>
                 <p>Explore educational activities that foster learning and curiosity.</p>
-                <a href="categories/learning-tasks/">View Tasks</a>
-            </div>
+            </a>
 
-            <div class="card">
-                <img src="physical-tasks.jpg" alt="Physical Tasks">
+            <!-- Physical Tasks Card -->
+            <a href="/physical-tasks/" class="card">
+                <img src="/physical-tasks/images/physical-tasks.jpg" alt="Physical Tasks">
                 <h2>Physical Tasks</h2>
                 <p>Get active with tasks that promote physical fitness and coordination.</p>
-                <a href="categories/physical-tasks/">View Tasks</a>
-            </div>
+            </a>
 
-            <div class="card">
-                <img src="household-tasks.jpg" alt="Household Tasks">
+            <!-- Household Tasks Card -->
+            <a href="/household-tasks/" class="card">
+                <img src="/household-tasks/images/household-tasks.jpg" alt="Household Tasks">
                 <h2>Household Tasks</h2>
                 <p>Participate in chores and tasks around the house to learn responsibility.</p>
-                <a href="categories/household-tasks/">View Tasks</a>
-            </div>
+            </a>
         </div>
     </div>
 
-    <script>
-        const menuToggle = document.getElementById('menuToggle');
-        const navLinks = document.getElementById('navLinks');
+    <!-- Footer Section -->
 
-        // Toggle the navigation links on mobile view
-        menuToggle.addEventListener('click', () => {
-            navLinks.classList.toggle('active');
-        });
+    <div id="footer-placeholder"></div>
+
+    <script>
+
     </script>
+
 </body>
+
 </html>

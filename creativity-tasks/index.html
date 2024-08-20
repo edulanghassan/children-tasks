@@ -1,0 +1,61 @@
+<!-- categories-style.css -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative and Entertainment Tasks</title>
+    <link rel="stylesheet" href="/categories-style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+
+        <script src="/creativity-tasks/slide.js"></script>
+        <script src="/nav.js"></script>
+        <script src="/footer.js"></script>
+</head>
+
+<body>
+    <!-- Placeholder where the navigation will be injected -->
+    <div id="nav-placeholder"></div>
+
+    <maiin class="container">
+        <div id="progressBar">
+            <div id="progressBarFill"></div>
+        </div>
+        <div id="slideContainer" class="slide active">
+            <!-- Next and Previous buttons -->
+            <button id="prevBtn" class="nav-btn prev-btn">&#10094;</button>
+            <button id="nextBtn" class="nav-btn next-btn">&#10095;</button>
+
+            <!-- Slide content (Dynamic content will be injected here) -->
+            <h2 id="slideTitleEn"></h2>
+            <h2 id="slideTitleAr" dir="rtl"></h2>
+
+            <!-- Image with Start/Stop button overlay -->
+            <div class="image-container">
+                <img id="slideImage" src="images/default-image.jpg" alt="Slide Image" />
+                <button id="startStopBtn" class="start-stop-btn">Start</button>
+            </div>
+            
+
+            <!-- Video -->
+            <iframe id="slideVideo" title="Video" frameborder="0" allowfullscreen></iframe>
+
+            <!-- Prompts under the video -->
+            <p id="promptEn"></p>
+            <p id="promptAr" dir="rtl"></p>
+            </main>
+        </div>
+
+        <!-- Footer Section -->
+        
+        <div id="footer-placeholder"></div>
+
+
+
+</body>
+
+</html>

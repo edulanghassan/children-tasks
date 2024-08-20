@@ -1,0 +1,77 @@
+/* Navigation Bar Styles */
+nav {
+    background-color: #4CAF50; /* A child-friendly green color */
+    color: white;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative; /* Ensure the nav links can be positioned relative to this container */
+}
+
+.nav-container button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-container button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+
+.menu-toggle {
+    display: none;
+    z-index: 10; /* Ensure the toggle button remains clickable */
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+
+/* Responsive Navigation */
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: block;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        display: none; /* Hidden by default */
+        position: absolute; /* Position it relative to the .nav-container */
+        top: 100%; /* Position it directly below the nav container */
+        left: 0;
+        right: 0;
+        background-color: #4CAF50; /* Same background color as the nav */
+        z-index: 9; /* Ensure it appears above other content */
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
+    }
+
+    .nav-links.active {
+        display: flex; /* Display the nav links when active */
+        gap: 10px;
+    }
+}

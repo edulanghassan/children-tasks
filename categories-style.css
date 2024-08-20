@@ -1,0 +1,178 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Progress Bar */
+#progressBar {
+    width: 100%;
+    background-color: #ddd;
+    margin: 20px 0;
+}
+
+#progressBarFill {
+    height: 10px;
+    width: 0;
+    background-color: #4CAF50;
+    transition: width 0.3s ease;
+}
+
+/* Slide Container and Buttons */
+.slide {
+    position: relative;
+}
+
+/* Slide Container */
+#slideContainer {
+    position: relative;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigation Buttons */
+.nav-btn {
+    position: absolute;
+    top: 50%; /* Vertically center */
+    transform: translateY(-50%); /* Adjust for the button height */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: white;
+    border: none;
+    font-size: 2rem;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 10; /* Ensure buttons are above other content */
+}
+
+.nav-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.prev-btn {
+    left: 10px; /* Position on the left */
+    border-radius: 3px 0 0 3px;
+}
+
+.next-btn {
+    right: 10px; /* Position on the right */
+    border-radius: 0 3px 3px 0;
+}
+
+/* Slide Titles */
+#slideTitleEn, #slideTitleAr {
+    font-size: 24px;
+    margin: 20px 0;
+    color: #333;
+}
+
+/* Image Container */
+.image-container {
+    position: relative;
+}
+
+#slideImage {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Start/Stop Button Overlay */
+.start-stop-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 18px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.start-stop-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Video */
+#slideVideo {
+    width: 100%;
+    /* height: auto; */
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+/* Prompts */
+#promptEn, #promptAr {
+    font-size: 18px;
+    color: #555;
+    margin: 20px 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nav-btn {
+        font-size: 16px;
+        padding: 12px;
+    }
+
+    
+/* Navigation Buttons */
+.nav-btn {
+    position: absolute;
+    top: 50%; /* Vertically center */
+    transform: translateY(-50%); /* Adjust for the button height */
+}
+
+    #slideTitleEn, #slideTitleAr {
+        font-size: 20px;
+    }
+
+    #slideVideo {
+        height: auto;
+    }
+
+    .start-stop-btn {
+        font-size: 16px;
+        padding: 8px 16px;
+    }
+
+    #slideVideo {
+        max-height: 100vh; /* Increase video height for mobile screens */
+    }
+}
+
+/* Slide buttons */
+
+.prev-btn, .next-btn {
+    position: absolute; /* Ensure the buttons are positioned correctly */
+    top: 30%; /* Position them vertically centered */
+    transform: translateY(-30%);
+    z-index: 10; /* Higher value ensures they appear above other content */
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add some background for visibility */
+    color: white; /* Ensure the text is visible */
+    border: none; /* Remove borders */
+    padding: 10px; /* Adjust padding as needed */
+    cursor: pointer; /* Change cursor to pointer */
+}
+
+.prev-btn {
+    left: 10px; /* Position the previous button on the left */
+}
+
+.next-btn {
+    right: 10px; /* Position the next button on the right */
+}

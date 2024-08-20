@@ -1,0 +1,902 @@
+[
+    {
+        "id": "1",
+        "title-en": "Draw a picture using watercolors",
+        "title-ar": "رسم صورة باستخدام الألوان المائية",
+        "prompt-en": "A vibrant watercolor painting of a child playing in a sunny park, with lush green trees and bright flowers, full of soft, blended colors.",
+        "prompt-ar": "لوحة مائية نابضة بالحياة لطفل يلعب في حديقة مشمسة، مع أشجار خضراء مورقة وأزهار زاهية، مليئة بالألوان الناعمة الممزوجة.",
+        "image": "images/001.draw-a-picture-using-watercolors/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "2",
+        "title-en": "Create a sculpture from clay",
+        "title-ar": "إنشاء منحوتة من الطين",
+        "prompt-en": "A child shaping a detailed clay sculpture of a small animal, focusing on intricate textures and features, surrounded by various tools.",
+        "prompt-ar": "طفل يقوم بتشكيل منحوتة طينية مفصلة لحيوان صغير، يركز على الأنسجة والميزات الدقيقة، محاطًا بأدوات مختلفة.",
+        "image": "images/002.create-a-sculpture-from-clay/0.jpg",
+        "video": "0jz2WsemoAY"
+    },
+    {
+        "id": "3",
+        "title-en": "Build a paper plane and fly it",
+        "title-ar": "صنع طائرة ورقية وتطييرها",
+        "prompt-en": "A child folding a colorful paper airplane and launching it into the air, watching it glide across a sunny room.",
+        "prompt-ar": "طفل يقوم بطي طائرة ورقية ملونة ويطيرها في الهواء، يشاهدها وهي تحلق عبر غرفة مشمسة.",
+        "image": "images/003.build-a-paper-plane-and-fly-it/0.jpg",
+        "video": "ZdDGFc9fxhE"
+    },
+    {
+        "id": "4",
+        "title-en": "Design a greeting card",
+        "title-ar": "تصميم بطاقة تهنئة",
+        "prompt-en": "A hand-drawn greeting card with colorful decorations, featuring balloons, hearts, and glitter, designed for a birthday celebration.",
+        "prompt-ar": "بطاقة تهنئة مرسومة يدويًا ومزينة بالألوان، تحتوي على بالونات وقلوب ولمعان، صممت للاحتفال بعيد ميلاد.",
+        "image": "images/004.design-a-greeting-card/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "5",
+        "title-en": "Make a photo collage",
+        "title-ar": "صنع كولاج من الصور",
+        "prompt-en": "A creative photo collage with different family pictures, all glued onto a bright, colorful background, with stickers and notes added for decoration.",
+        "prompt-ar": "كولاج إبداعي من صور عائلية مختلفة، تم لصقها على خلفية ملونة زاهية، مع إضافة ملصقات وملاحظات للتزيين.",
+        "image": "images/005.make-a-photo-collage/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "6",
+        "title-en": "Write a short story",
+        "title-ar": "كتابة قصة قصيرة",
+        "prompt-en": "A child writing a short adventure story in a notebook, with doodles of magical creatures and brave heroes along the page margins.",
+        "prompt-ar": "طفل يكتب قصة مغامرة قصيرة في دفتر ملاحظات، مع رسومات لمخلوقات سحرية وأبطال شجعان على جوانب الصفحات.",
+        "image": "images/006.write-a-short-story/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "7",
+        "title-en": "Create a DIY puppet",
+        "title-ar": "صنع دمية يدوية",
+        "prompt-en": "A DIY puppet made from a sock, decorated with button eyes, yarn hair, and a painted mouth, ready for a fun puppet show.",
+        "prompt-ar": "دمية يدوية مصنوعة من جورب، مزينة بعيون من الأزرار، وشعر من الغزل، وفم مرسوم، جاهزة لعرض دمى ممتع.",
+        "image": "images/007.create-a-diy-puppet/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "8",
+        "title-en": "Paint a rock with acrylic colors",
+        "title-ar": "تلوين حجر باستخدام ألوان الأكريليك",
+        "prompt-en": "A smooth rock painted with bright acrylic colors, featuring patterns like stars and swirls, turning it into a colorful piece of art.",
+        "prompt-ar": "حجر أملس مطلي بألوان أكريليك زاهية، يتميز بنقوش مثل النجوم والدوامات، مما يحوله إلى قطعة فنية ملونة.",
+        "image": "images/008.paint-a-rock-with-acrylic-colors/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "9",
+        "title-en": "Create a nature scrapbook",
+        "title-ar": "إنشاء دفتر ملاحظات طبيعي",
+        "prompt-en": "A nature scrapbook filled with dried leaves, flower petals, and sketches of insects, documenting a child's outdoor discoveries.",
+        "prompt-ar": "دفتر ملاحظات طبيعي مليء بالأوراق المجففة وبتلات الزهور ورسومات الحشرات، يوثق اكتشافات الطفل في الهواء الطلق.",
+        "image": "images/009.create-a-nature-scrapbook/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "10",
+        "title-en": "Make a DIY musical instrument",
+        "title-ar": "صنع آلة موسيقية يدوية",
+        "prompt-en": "A child creating a simple drum using a tin can and balloon skin, playing rhythmic beats after completing their DIY musical instrument.",
+        "prompt-ar": "طفل يصنع طبلة بسيطة باستخدام علبة صفيح وجلد بالون، يعزف إيقاعات إيقاعية بعد إكمال آلته الموسيقية اليدوية.",
+        "image": "images/010.make-a-diy-musical-instrument/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "11",
+        "title-en": "Design a comic strip",
+        "title-ar": "تصميم شريط مصور",
+        "prompt-en": "A hand-drawn comic strip featuring a superhero going on an exciting adventure, complete with colorful speech bubbles and action scenes.",
+        "prompt-ar": "شريط مصور مرسوم يدويًا يحتوي على بطل خارق يذهب في مغامرة مثيرة، مكتمل بفقاعات الحوار الملونة ومشاهد الحركة.",
+        "image": "images/011.design-a-comic-strip/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "12",
+        "title-en": "Build a LEGO castle",
+        "title-ar": "بناء قلعة باستخدام مكعبات ليغو",
+        "prompt-en": "A detailed LEGO castle being constructed by a child, with towers, gates, and small knights standing guard outside.",
+        "prompt-ar": "قلعة مفصلة يتم بناؤها باستخدام مكعبات ليغو من قبل طفل، مع أبراج وبوابات وفرسان صغار يقفون للحراسة بالخارج.",
+        "image": "images/012.build-a-lego-castle/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "13",
+        "title-en": "Create a shadow puppet show",
+        "title-ar": "إنشاء عرض دمى الظل",
+        "prompt-en": "A child creating cut-out shadow puppets of animals and characters, using a flashlight and screen to perform a shadow puppet show.",
+        "prompt-ar": "طفل يقوم بصنع دمى ظل مقطوعة على شكل حيوانات وشخصيات، باستخدام مصباح يدوي وشاشة لعرض عرض دمى الظل.",
+        "image": "images/013.create-a-shadow-puppet-show/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "14",
+        "title-en": "Design a puzzle from cardboard",
+        "title-ar": "تصميم لغز من الكرتون",
+        "prompt-en": "A homemade cardboard puzzle with a hand-drawn image, cut into irregular pieces, ready to be solved by friends or family.",
+        "prompt-ar": "لغز مصنوع يدويًا من الكرتون يحتوي على صورة مرسومة يدويًا، مقطعة إلى قطع غير منتظمة، جاهزة للحل من قبل الأصدقاء أو العائلة.",
+        "image": "images/014.design-a-puzzle-from-cardboard/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "15",
+        "title-en": "Make jewelry using beads",
+        "title-ar": "صنع مجوهرات باستخدام الخرز",
+        "prompt-en": "A child threading colorful beads onto a string to create a bracelet or necklace, with a focus on patterns and designs.",
+        "prompt-ar": "طفل يقوم بخيوط الخرز الملون على خيط لصنع سوار أو قلادة، مع التركيز على الأنماط والتصاميم.",
+        "image": "images/015.make-jewelry-using-beads/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "16",
+        "title-en": "Build a birdhouse from wood",
+        "title-ar": "بناء بيت طيور من الخشب",
+        "prompt-en": "A small wooden birdhouse being assembled and painted by a child, with colorful patterns and a hole for birds to nest inside.",
+        "prompt-ar": "بيت طيور خشبي صغير يتم تجميعه وطلاؤه من قبل طفل، مزين بنقوش ملونة وثقب لتتمكن الطيور من التعشيش داخله.",
+        "image": "images/016.build-a-birdhouse-from-wood/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "17",
+        "title-en": "Create a paper lantern",
+        "title-ar": "صنع فانوس من الورق",
+        "prompt-en": "A delicate paper lantern being decorated with bright colors and patterns, ready to be hung up for a celebration or event.",
+        "prompt-ar": "فانوس ورقي رقيق يتم تزيينه بألوان وأنماط زاهية، جاهز لتعليقه للاحتفال أو الحدث.",
+        "image": "images/017.create-a-paper-lantern/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "18",
+        "title-en": "Write a poem about nature",
+        "title-ar": "كتابة قصيدة عن الطبيعة",
+        "prompt-en": "A child writing a poem in neat handwriting, describing the beauty of nature, with illustrations of trees, rivers, and birds on the page.",
+        "prompt-ar": "طفل يكتب قصيدة بخط مرتب، يصف فيها جمال الطبيعة، مع رسومات للأشجار والأنهار والطيور على الصفحة.",
+        "image": "images/018.write-a-poem-about-nature/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "19",
+        "title-en": "Create a DIY kaleidoscope",
+        "title-ar": "صنع كالياديسكوب يدوي",
+        "prompt-en": "A child assembling a DIY kaleidoscope using beads, mirrors, and cardboard, watching the colors and patterns shift inside the tube.",
+        "prompt-ar": "طفل يجمع كالياديسكوب يدوي باستخدام الخرز والمرايا والكرتون، يشاهد الألوان والأنماط تتغير داخل الأنبوب.",
+        "image": "images/019.create-a-diy-kaleidoscope/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "20",
+        "title-en": "Make a flipbook animation",
+        "title-ar": "صنع رسوم متحركة في دفتر ملاحظات",
+        "prompt-en": "A series of small drawings on the edge of a notebook, creating a simple animation of a bouncing ball when flipped quickly.",
+        "prompt-ar": "سلسلة من الرسومات الصغيرة على حافة دفتر ملاحظات، تخلق رسومًا متحركة بسيطة لكرة ترتد عند تقليبها بسرعة.",
+        "image": "images/020.make-a-flipbook-animation/0.jpg",
+        "video": "7x2PLM8a13o"
+    },
+    {
+        "id": "21",
+        "title-en": "Design a personal logo",
+        "title-ar": "تصميم شعار شخصي",
+        "prompt-en": "A child drawing a creative and colorful logo that represents their favorite hobbies or name, using various shapes and colors.",
+        "prompt-ar": "طفل يقوم برسم شعار شخصي إبداعي وملون يمثل هواياته المفضلة أو اسمه، باستخدام أشكال وألوان مختلفة.",
+        "image": "images/021.design-a-personal-logo/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "22",
+        "title-en": "Make a bookmark",
+        "title-ar": "صنع إشارة للكتب",
+        "prompt-en": "A handmade bookmark decorated with colorful ribbons, beads, and small doodles, personalized with the child's name.",
+        "prompt-ar": "إشارة كتاب مصنوعة يدويًا ومزينة بأشرطة ملونة وخرز ورسمات صغيرة، تحمل اسم الطفل لتخصيصها.",
+        "image": "images/022.make-a-bookmark/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "23",
+        "title-en": "Build a cardboard car",
+        "title-ar": "بناء سيارة من الكرتون",
+        "prompt-en": "A child crafting a model car out of cardboard, complete with wheels, windows, and painted in bright, fun colors.",
+        "prompt-ar": "طفل يصنع نموذج سيارة من الكرتون، مكتملًا بالعجلات والنوافذ، وملونًا بألوان زاهية وممتعة.",
+        "image": "images/023.build-a-cardboard-car/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "24",
+        "title-en": "Create a time capsule",
+        "title-ar": "إنشاء كبسولة زمنية",
+        "prompt-en": "A child collecting personal items and placing them in a time capsule, sealed with decorations, to be opened in the future.",
+        "prompt-ar": "طفل يجمع أغراضه الشخصية ويضعها في كبسولة زمنية، محكمة الإغلاق ومزينة لفتحها في المستقبل.",
+        "image": "images/024.create-a-time-capsule/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "25",
+        "title-en": "Make a nature crown",
+        "title-ar": "صنع تاج من عناصر الطبيعة",
+        "prompt-en": "A nature crown made from leaves, flowers, and twigs, creatively woven together by a child, worn like a king or queen's crown.",
+        "prompt-ar": "تاج مصنوع من أوراق الشجر والزهور والأغصان، منسوج بشكل إبداعي من قبل طفل، يرتديه مثل تاج الملك أو الملكة.",
+        "image": "images/025.make-a-nature-crown/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "26",
+        "title-en": "Make a DIY pinwheel",
+        "title-ar": "صنع مروحة هواء يدوية",
+        "prompt-en": "A child making a colorful pinwheel using paper and a stick, spinning it in the breeze after completing the project.",
+        "prompt-ar": "طفل يصنع مروحة هواء يدوية ملونة باستخدام الورق وعصا، يشاهدها تدور في النسيم بعد إتمام المشروع.",
+        "image": "images/026.make-a-diy-pinwheel/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "27",
+        "title-en": "Create a dreamcatcher",
+        "title-ar": "صنع معلقه الأحلام",
+        "prompt-en": "A beautiful dreamcatcher made by a child, decorated with feathers, beads, and colorful threads, hung near their bed.",
+        "prompt-ar": "معلقة أحلام جميلة مصنوعة من قبل طفل، مزينة بالريش والخرز وخيوط ملونة، معلقة بجوار سريرهم.",
+        "image": "images/027.create-a-dreamcatcher/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "28",
+        "title-en": "Draw a maze",
+        "title-ar": "رسم متاهة",
+        "prompt-en": "A complex maze drawn by a child on paper, with twists, turns, and dead-ends, challenging their friends to solve it.",
+        "prompt-ar": "متاهة معقدة مرسومة من قبل طفل على الورق، مليئة بالمنعطفات والنهايات المغلقة، يتحدى أصدقائه لحلها.",
+        "image": "images/028.draw-a-maze/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "29",
+        "title-en": "Create a DIY kite",
+        "title-ar": "صنع طائرة ورقية يدوية",
+        "prompt-en": "A colorful kite designed by a child using paper, string, and sticks, flying high in the sky on a breezy day.",
+        "prompt-ar": "طائرة ورقية ملونة صممها طفل باستخدام الورق والخيط والعصي، تطير عاليًا في السماء في يوم عاصف.",
+        "image": "images/029.create-a-diy-kite/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "30",
+        "title-en": "Decorate a notebook",
+        "title-ar": "تزيين دفتر ملاحظات",
+        "prompt-en": "A plain notebook transformed into a personalized one, with stickers, glitter, and colorful drawings on the cover.",
+        "prompt-ar": "دفتر ملاحظات عادي يتم تحويله إلى دفتر مخصص، مع ملصقات ولمعان ورسومات ملونة على الغلاف.",
+        "image": "images/030.decorate-a-notebook/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "31",
+        "title-en": "Make a puppet theater",
+        "title-ar": "صنع مسرح دمى",
+        "prompt-en": "A homemade puppet theater created from a cardboard box, with curtains, a stage, and paper puppets for a show.",
+        "prompt-ar": "مسرح دمى منزلي الصنع مصنوع من صندوق كرتوني، مع ستائر ومسرح ودمى ورقية لعرض.",
+        "image": "images/031.make-a-puppet-theater/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "32",
+        "title-en": "Create a recycled sculpture",
+        "title-ar": "إنشاء منحوتة من مواد معاد تدويرها",
+        "prompt-en": "A child creating a sculpture out of recycled materials like plastic bottles, cardboard, and paper, designed with eco-friendly creativity.",
+        "prompt-ar": "طفل يصنع منحوتة من مواد معاد تدويرها مثل الزجاجات البلاستيكية والكرتون والورق، بتصميم إبداعي صديق للبيئة.",
+        "image": "images/032.create-a-recycled-sculpture/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "33",
+        "title-en": "Make a treasure map",
+        "title-ar": "صنع خريطة كنز",
+        "prompt-en": "A detailed treasure map drawn on old-looking paper, with landmarks, paths, and an X marking the treasure spot.",
+        "prompt-ar": "خريطة كنز مفصلة مرسومة على ورق يبدو قديمًا، تحتوي على معالم ومسارات وعلامة X تحدد موقع الكنز.",
+        "image": "images/033.make-a-treasure-map/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "34",
+        "title-en": "Design a superhero cape",
+        "title-ar": "تصميم رداء بطل خارق",
+        "prompt-en": "A colorful superhero cape designed by a child using fabric, glitter, and markers, ready to wear during imaginative play.",
+        "prompt-ar": "رداء بطل خارق ملون صممه طفل باستخدام القماش واللمعان والأقلام، جاهز للارتداء خلال اللعب التخيلي.",
+        "image": "images/034.design-a-superhero-cape/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "35",
+        "title-en": "Create a handprint painting",
+        "title-ar": "إنشاء لوحة من بصمات اليد",
+        "prompt-en": "A painting created using colorful handprints on a large sheet of paper, forming trees, animals, or abstract art.",
+        "prompt-ar": "لوحة تم إنشاؤها باستخدام بصمات اليد الملونة على ورقة كبيرة، تشكل أشجارًا أو حيوانات أو فنًا تجريديًا.",
+        "image": "images/035.create-a-handprint-painting/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "36",
+        "title-en": "Make a puzzle from a photo",
+        "title-ar": "صنع لغز من صورة",
+        "prompt-en": "A photograph is turned into a puzzle by cutting it into pieces, challenging friends to piece it back together.",
+        "prompt-ar": "يتم تحويل صورة فوتوغرافية إلى لغز عن طريق قصها إلى قطع، متحدى الأصدقاء لإعادة تركيبها.",
+        "image": "images/036.make-a-puzzle-from-a-photo/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "37",
+        "title-en": "Write a comic strip",
+        "title-ar": "كتابة شريط هزلي",
+        "prompt-en": "A funny comic strip drawn by a child, with characters, dialogue, and a storyline, in boxes on a page.",
+        "prompt-ar": "شريط هزلي مضحك مرسوم من قبل طفل، مع شخصيات وحوارات وقصة، في مربعات على صفحة.",
+        "image": "images/037.write-a-comic-strip/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "38",
+        "title-en": "Build a paper airplane fleet",
+        "title-ar": "بناء أسطول من الطائرات الورقية",
+        "prompt-en": "A collection of paper airplanes in different designs, folded and tested for flight by a child.",
+        "prompt-ar": "مجموعة من الطائرات الورقية بتصاميم مختلفة، مطوية ومختبرة للطيران من قبل طفل.",
+        "image": "images/038.build-a-paper-airplane-fleet/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "39",
+        "title-en": "Create a magic wand",
+        "title-ar": "صنع عصا سحرية",
+        "prompt-en": "A sparkly magic wand made using a stick, glitter, and paper stars, designed to wave during imaginative play.",
+        "prompt-ar": "عصا سحرية متلألئة مصنوعة باستخدام عصا ولمعان ونجوم ورقية، مصممة ليتم التلويح بها أثناء اللعب التخيلي.",
+        "image": "images/039.create-a-magic-wand/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "40",
+        "title-en": "Make a flower crown",
+        "title-ar": "صنع تاج من الزهور",
+        "prompt-en": "A delicate crown made of real or paper flowers, crafted and worn like a headpiece by a child.",
+        "prompt-ar": "تاج دقيق مصنوع من زهور حقيقية أو ورقية، مصنوع ويرتديه الطفل كغطاء للرأس.",
+        "image": "images/040.make-a-flower-crown/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "41",
+        "title-en": "Design a secret code",
+        "title-ar": "تصميم رمز سري",
+        "prompt-en": "A secret code created by a child using symbols, letters, or numbers, challenging friends to decode the hidden message.",
+        "prompt-ar": "رمز سري صممه طفل باستخدام رموز أو أحرف أو أرقام، يتحدى الأصدقاء لفك الشيفرة عن الرسالة المخفية.",
+        "image": "images/041.design-a-secret-code/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "42",
+        "title-en": "Create a diorama",
+        "title-ar": "إنشاء مشهد مجسم",
+        "prompt-en": "A detailed diorama of a scene, like a forest or a town, made by a child using paper, glue, and small figurines.",
+        "prompt-ar": "مشهد مجسم مفصل لغابة أو بلدة، مصنوع من الورق والصمغ والتماثيل الصغيرة من قبل الطفل.",
+        "image": "images/042.create-a-diorama/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "43",
+        "title-en": "Make a rainbow using crayons",
+        "title-ar": "رسم قوس قزح باستخدام أقلام الشمع",
+        "prompt-en": "A colorful rainbow drawn by a child using a variety of crayon colors on a large piece of paper.",
+        "prompt-ar": "قوس قزح ملون مرسوم باستخدام أقلام الشمع بمجموعة من الألوان على ورقة كبيرة.",
+        "image": "images/043.make-a-rainbow-using-crayons/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "44",
+        "title-en": "Create a clay sculpture",
+        "title-ar": "صنع منحوتة من الصلصال",
+        "prompt-en": "A small, hand-sculpted clay model of an animal, figure, or object, carefully shaped and detailed by a child.",
+        "prompt-ar": "نموذج صغير منحوت يدويًا من الصلصال لحيوان أو شخصية أو كائن، تم تشكيله بعناية من قبل طفل.",
+        "image": "images/044.create-a-clay-sculpture/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "45",
+        "title-en": "Make a shadow puppet",
+        "title-ar": "صنع دمى الظل",
+        "prompt-en": "A cutout figure of a shadow puppet made from paper, with a child holding it up to cast shapes against the wall using light.",
+        "prompt-ar": "دمية ظل مقطوعة من الورق، يستخدمها طفل لعمل أشكال تظهر على الحائط باستخدام الضوء.",
+        "image": "images/045.make-a-shadow-puppet/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "46",
+        "title-en": "Create a mural with chalk",
+        "title-ar": "رسم جدارية باستخدام الطباشير",
+        "prompt-en": "A large mural drawn on the pavement with colored chalk, featuring flowers, animals, and fun shapes.",
+        "prompt-ar": "جدارية كبيرة مرسومة على الرصيف باستخدام الطباشير الملون، تحتوي على أزهار وحيوانات وأشكال ممتعة.",
+        "image": "images/046.create-a-mural-with-chalk/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "47",
+        "title-en": "Build a mini robot",
+        "title-ar": "بناء روبوت صغير",
+        "prompt-en": "A small robot made using recycled materials and simple electronics, with parts moving when activated.",
+        "prompt-ar": "روبوت صغير مصنوع من مواد معاد تدويرها وإلكترونيات بسيطة، يتحرك عند تفعيله.",
+        "image": "images/047.build-a-mini-robot/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "48",
+        "title-en": "Make a DIY lava lamp",
+        "title-ar": "صنع مصباح الحمم البركانية",
+        "prompt-en": "A homemade lava lamp created using oil, water, and food coloring, bubbling with light under the bottle.",
+        "prompt-ar": "مصباح حمم بركانية مصنوع يدويًا باستخدام الزيت والماء وملون الطعام، يفقع مع الضوء أسفل الزجاجة.",
+        "image": "images/048.make-a-diy-lava-lamp/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "49",
+        "title-en": "Create a comic book",
+        "title-ar": "صنع كتاب قصص مصورة",
+        "prompt-en": "A child drawing and writing their own comic book with a unique storyline, characters, and dialogue.",
+        "prompt-ar": "طفل يرسم ويكتب كتاب قصص مصورة خاص به بقصة فريدة وشخصيات وحوارات.",
+        "image": "images/049.create-a-comic-book/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "50",
+        "title-en": "Make friendship bracelets",
+        "title-ar": "صنع أساور الصداقة",
+        "prompt-en": "A colorful friendship bracelet made with strings, beads, and knots, given to friends as a special gift.",
+        "prompt-ar": "سوار صداقة ملون مصنوع من الخيوط والخرز والعقد، يُهدى إلى الأصدقاء كهدية مميزة.",
+        "image": "images/050.make-friendship-bracelets/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "51",
+        "title-en": "Bake cookies with shapes",
+        "title-ar": "خبز كعكات بأشكال",
+        "prompt-en": "A tray of cookies baked in fun shapes like stars, hearts, and animals, decorated with colorful sprinkles.",
+        "prompt-ar": "صينية من الكعكات المخبوزة بأشكال مرحة مثل النجوم والقلوب والحيوانات، مزينة برشات ملونة.",
+        "image": "images/051.bake-cookies-with-shapes/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "52",
+        "title-en": "Create a dreamcatcher",
+        "title-ar": "صنع مصيدة الأحلام",
+        "prompt-en": "A handmade dreamcatcher with a circle frame, strings, beads, and feathers hanging from it, designed by a child.",
+        "prompt-ar": "مصيدة أحلام يدوية الصنع بإطار دائري، خيوط وخرز وريش يتدلى منها، مصممة من قبل طفل.",
+        "image": "images/052.create-a-dreamcatcher/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "53",
+        "title-en": "Paint a picture frame",
+        "title-ar": "طلاء إطار صورة",
+        "prompt-en": "A wooden picture frame painted in bright colors and patterns by a child, ready to hold a family photo.",
+        "prompt-ar": "إطار صورة خشبي مطلي بألوان وأنماط زاهية من قبل طفل، جاهز لاحتواء صورة عائلية.",
+        "image": "images/053.paint-a-picture-frame/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "54",
+        "title-en": "Make a puppet from a sock",
+        "title-ar": "صنع دمية من جورب",
+        "prompt-en": "A creative puppet made from a sock, with buttons for eyes, yarn for hair, and a funny face, created for a play.",
+        "prompt-ar": "دمية إبداعية مصنوعة من جورب، بأزرار للعينين وخيوط للشعر ووجه مضحك، مصممة للعب.",
+        "image": "images/054.make-a-puppet-from-a-sock/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "55",
+        "title-en": "Create a maze with paper",
+        "title-ar": "إنشاء متاهة بالورق",
+        "prompt-en": "A paper maze designed by a child with walls, twists, and turns, challenging friends to find the way out.",
+        "prompt-ar": "متاهة ورقية مصممة من قبل طفل بجدران ومنعطفات، تتحدى الأصدقاء للعثور على المخرج.",
+        "image": "images/055.create-a-maze-with-paper/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "56",
+        "title-en": "Write a short poem",
+        "title-ar": "كتابة قصيدة قصيرة",
+        "prompt-en": "A short, rhyming poem written by a child, expressing fun, imagination, or thoughts about nature.",
+        "prompt-ar": "قصيدة قصيرة ذات قافية مكتوبة من قبل طفل، تعبر عن المرح أو الخيال أو أفكار حول الطبيعة.",
+        "image": "images/056.write-a-short-poem/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "57",
+        "title-en": "Build a castle from cardboard",
+        "title-ar": "بناء قلعة من الكرتون",
+        "prompt-en": "A large castle built using cardboard boxes, decorated with towers, windows, and flags by a child.",
+        "prompt-ar": "قلعة كبيرة مبنية باستخدام صناديق الكرتون، مزينة بالأبراج والنوافذ والأعلام من قبل طفل.",
+        "image": "images/057.build-a-castle-from-cardboard/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "58",
+        "title-en": "Create a paper mosaic",
+        "title-ar": "صنع فسيفساء ورقية",
+        "prompt-en": "A colorful paper mosaic made by cutting small pieces of paper and gluing them together to form a picture.",
+        "prompt-ar": "فسيفساء ورقية ملونة مصنوعة من قصاصات ورقية صغيرة تم تجميعها لتشكل صورة.",
+        "image": "images/058.create-a-paper-mosaic/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "59",
+        "title-en": "Make a necklace with beads",
+        "title-ar": "صنع قلادة بالخرز",
+        "prompt-en": "A colorful necklace made by stringing beads together, with different patterns and designs, crafted by a child.",
+        "prompt-ar": "قلادة ملونة مصنوعة من تجميع الخرز معًا بتصاميم وأنماط مختلفة، مصنوعة من قبل طفل.",
+        "image": "images/059.make-a-necklace-with-beads/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "60",
+        "title-en": "Create a treasure map",
+        "title-ar": "صنع خريطة كنز",
+        "prompt-en": "An old-looking treasure map drawn on paper by a child, with clues and symbols leading to a hidden treasure.",
+        "prompt-ar": "خريطة كنز تبدو قديمة مرسومة على ورق من قبل طفل، تحتوي على أدلة ورموز تقود إلى كنز مخفي.",
+        "image": "images/060.create-a-treasure-map/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "61",
+        "title-en": "Make a DIY kaleidoscope",
+        "title-ar": "صنع كاليودوسكوب يدوي",
+        "prompt-en": "A homemade kaleidoscope made using a tube, colorful beads, and mirrors, showing beautiful patterns when looked through.",
+        "prompt-ar": "كاليودوسكوب يدوي مصنوع من أنبوب وخرز ملون ومرايا، يظهر أنماطًا جميلة عند النظر من خلاله.",
+        "image": "images/061.make-a-diy-kaleidoscope/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "62",
+        "title-en": "Make an origami animal",
+        "title-ar": "صنع حيوان من الأوريجامي",
+        "prompt-en": "A delicate origami animal, like a crane or a frog, folded from a single sheet of paper by a child.",
+        "prompt-ar": "حيوان أوريجامي دقيق مثل طائر الكركي أو الضفدع، مطوي من ورقة واحدة من قبل طفل.",
+        "image": "images/062.make-an-origami-animal/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "63",
+        "title-en": "Create a DIY puzzle",
+        "title-ar": "صنع أحجية يدوية",
+        "prompt-en": "A custom puzzle made by a child, cutting a picture into pieces and challenging friends to put it back together.",
+        "prompt-ar": "أحجية مخصصة مصنوعة من قبل طفل، يقوم بقص صورة إلى قطع ويتحدى الأصدقاء لإعادة تجميعها.",
+        "image": "images/063.create-a-diy-puzzle/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "64",
+        "title-en": "Paint rocks with designs",
+        "title-ar": "طلاء الصخور بتصاميم",
+        "prompt-en": "Smooth rocks painted by a child with bright colors and fun designs like animals, shapes, or patterns.",
+        "prompt-ar": "صخور ملساء مطلية بألوان زاهية وتصاميم مرحة مثل الحيوانات أو الأشكال أو الأنماط من قبل طفل.",
+        "image": "images/064.paint-rocks-with-designs/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "65",
+        "title-en": "Make a paper lantern",
+        "title-ar": "صنع فانوس ورقي",
+        "prompt-en": "A delicate paper lantern created by folding and cutting paper, then lighting it with a small candle or light inside.",
+        "prompt-ar": "فانوس ورقي دقيق مصنوع من طي وقص الورق، يتم إضاءته بشمعة صغيرة أو ضوء داخلي.",
+        "image": "images/065.make-a-paper-lantern/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "66",
+        "title-en": "Write a story about a superhero",
+        "title-ar": "كتابة قصة عن بطل خارق",
+        "prompt-en": "A short story written by a child about a superhero with special powers, saving the day in an imaginative adventure.",
+        "prompt-ar": "قصة قصيرة مكتوبة من قبل طفل عن بطل خارق ذو قوى خاصة، ينقذ الموقف في مغامرة خيالية.",
+        "image": "images/066.write-a-story-about-a-superhero/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "67",
+        "title-en": "Make a butterfly mobile",
+        "title-ar": "صنع موبايل فراشات",
+        "prompt-en": "A hanging mobile with paper butterflies, carefully cut and colored by a child, spinning gently in the air.",
+        "prompt-ar": "موبايل معلق يحتوي على فراشات ورقية، مقصوصة وملونة بعناية من قبل طفل، تدور بلطف في الهواء.",
+        "image": "images/067.make-a-butterfly-mobile/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "68",
+        "title-en": "Build a mini car with LEGO",
+        "title-ar": "بناء سيارة صغيرة باستخدام الليغو",
+        "prompt-en": "A small car built with LEGO pieces, designed for speed and creativity by a child, ready for play.",
+        "prompt-ar": "سيارة صغيرة مبنية باستخدام قطع الليغو، مصممة للسرعة والإبداع من قبل طفل، جاهزة للعب.",
+        "image": "images/068.build-a-mini-car-with-LEGO/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "69",
+        "title-en": "Create a DIY mask",
+        "title-ar": "صنع قناع يدوي",
+        "prompt-en": "A colorful mask created by a child using paper, paint, and strings, decorated with feathers or glitter.",
+        "prompt-ar": "قناع ملون مصنوع يدويًا من الورق والطلاء والخيوط، مزين بالريش أو البريق من قبل طفل.",
+        "image": "images/069.create-a-diy-mask/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "70",
+        "title-en": "Make a superhero cape",
+        "title-ar": "صنع رداء بطل خارق",
+        "prompt-en": "A superhero cape made from fabric or an old towel, decorated with a custom symbol or design by a child.",
+        "prompt-ar": "رداء بطل خارق مصنوع من القماش أو منشفة قديمة، مزين برمز أو تصميم مخصص من قبل طفل.",
+        "image": "images/070.make-a-superhero-cape/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "71",
+        "title-en": "Create a shadow puppet show",
+        "title-ar": "صنع عرض دمى الظل",
+        "prompt-en": "A creative shadow puppet show performed by a child using hand-cut paper figures and a light source.",
+        "prompt-ar": "عرض دمى الظل إبداعي ينفذه طفل باستخدام أشكال ورقية مقصوصة وضوء.",
+        "image": "images/071.create-a-shadow-puppet-show/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "72",
+        "title-en": "Make a nature collage",
+        "title-ar": "صنع كولاج من الطبيعة",
+        "prompt-en": "A collage made by a child from leaves, flowers, and other natural materials, glued onto paper in a creative pattern.",
+        "prompt-ar": "كولاج مصنوع من قبل طفل باستخدام أوراق وأزهار ومواد طبيعية أخرى، ملصق على الورق بشكل إبداعي.",
+        "image": "images/072.make-a-nature-collage/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "73",
+        "title-en": "Build a fort with pillows",
+        "title-ar": "بناء حصن باستخدام الوسائد",
+        "prompt-en": "A cozy fort built by a child using pillows, blankets, and chairs, creating a secret space for play.",
+        "prompt-ar": "حصن مريح مبني باستخدام الوسائد والبطانيات والكراسي، يخلق مكانًا سريًا للعب.",
+        "image": "images/073.build-a-fort-with-pillows/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "74",
+        "title-en": "Create a DIY journal",
+        "title-ar": "صنع دفتر يوميات يدوي",
+        "prompt-en": "A personalized journal created by a child, with decorated pages, drawings, and spaces for writing thoughts and stories.",
+        "prompt-ar": "دفتر يوميات مخصص مصنوع من قبل طفل، يحتوي على صفحات مزينة ورسومات ومساحات لكتابة الأفكار والقصص.",
+        "image": "images/074.create-a-diy-journal/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "75",
+        "title-en": "Make a friendship bracelet",
+        "title-ar": "صنع سوار الصداقة",
+        "prompt-en": "A colorful friendship bracelet made with threads and knots, personalized with colors and designs by a child.",
+        "prompt-ar": "سوار صداقة ملون مصنوع من خيوط وعقد، مخصص بالألوان والتصاميم من قبل طفل.",
+        "image": "images/075.make-a-friendship-bracelet/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "76",
+        "title-en": "Design a board game",
+        "title-ar": "تصميم لعبة لوحية",
+        "prompt-en": "A creative board game designed by a child, complete with rules, pieces, and a game board drawn on paper.",
+        "prompt-ar": "لعبة لوحية إبداعية مصممة من قبل طفل، كاملة بالقواعد والقطع ولوحة اللعبة المرسومة على الورق.",
+        "image": "images/076.design-a-board-game/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "77",
+        "title-en": "Make a DIY bird feeder",
+        "title-ar": "صنع مغذية طيور يدوية",
+        "prompt-en": "A handmade bird feeder crafted by a child using a recycled bottle, decorated with paint and hung outside.",
+        "prompt-ar": "مغذية طيور يدوية مصنوعة من قبل طفل باستخدام زجاجة معاد تدويرها، مزينة بالطلاء ومعلقة في الخارج.",
+        "image": "images/077.make-a-diy-bird-feeder/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "78",
+        "title-en": "Create a miniature garden",
+        "title-ar": "إنشاء حديقة صغيرة",
+        "prompt-en": "A miniature garden created by a child using small plants, stones, and decorations, arranged in a container.",
+        "prompt-ar": "حديقة صغيرة مصنوعة من قبل طفل باستخدام نباتات صغيرة وأحجار وزخارف، مرتبة في حاوية.",
+        "image": "images/078.create-a-miniature-garden/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "79",
+        "title-en": "Paint a canvas with abstract art",
+        "title-ar": "رسم لوحة فنية مجردة",
+        "prompt-en": "An abstract painting created by a child on a canvas, with bold colors and imaginative patterns.",
+        "prompt-ar": "لوحة فنية مجردة مرسومة من قبل طفل على قماش، بألوان جريئة وأنماط خيالية.",
+        "image": "images/079.paint-a-canvas-with-abstract-art/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "80",
+        "title-en": "Make a clay sculpture",
+        "title-ar": "صنع منحوتة من الطين",
+        "prompt-en": "A small clay sculpture crafted by a child, shaped into an animal or object, and left to dry and harden.",
+        "prompt-ar": "منحوتة صغيرة من الطين مصنوعة من قبل طفل، على شكل حيوان أو غرض، تُترك لتجف وتتصلب.",
+        "image": "images/080.make-a-clay-sculpture/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "81",
+        "title-en": "Create a paper windmill",
+        "title-ar": "صنع طاحونة هوائية ورقية",
+        "prompt-en": "A colorful paper windmill made by a child, spinning in the breeze when placed outside.",
+        "prompt-ar": "طاحونة هوائية ورقية ملونة مصنوعة من قبل طفل، تدور في النسيم عند وضعها في الخارج.",
+        "image": "images/081.create-a-paper-windmill/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "82",
+        "title-en": "Build a robot with recycled materials",
+        "title-ar": "بناء روبوت باستخدام مواد معاد تدويرها",
+        "prompt-en": "A small robot created from recycled materials like bottles and boxes, designed and decorated by a child.",
+        "prompt-ar": "روبوت صغير مصنوع من مواد معاد تدويرها مثل الزجاجات والصناديق، مصمم ومزين من قبل طفل.",
+        "image": "images/082.build-a-robot-with-recycled-materials/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "83",
+        "title-en": "Write a letter to a friend",
+        "title-ar": "كتابة رسالة لصديق",
+        "prompt-en": "A handwritten letter written by a child, sharing stories or kind words with a friend.",
+        "prompt-ar": "رسالة مكتوبة بخط اليد من قبل طفل، يشارك فيها قصصًا أو كلمات طيبة مع صديق.",
+        "image": "images/083.write-a-letter-to-a-friend/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "84",
+        "title-en": "Create a stop-motion animation",
+        "title-ar": "إنشاء فيلم توقف الحركة",
+        "prompt-en": "A short stop-motion animation created by a child using toys, moving them frame by frame to tell a story.",
+        "prompt-ar": "فيلم توقف الحركة قصير مصنوع من قبل طفل باستخدام ألعاب، يحركها إطارًا تلو الآخر لرواية قصة.",
+        "image": "images/084.create-a-stop-motion-animation/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "85",
+        "title-en": "Make a musical instrument from objects",
+        "title-ar": "صنع آلة موسيقية من الأشياء",
+        "prompt-en": "A homemade musical instrument created by a child using everyday objects like pots, pans, and rubber bands.",
+        "prompt-ar": "آلة موسيقية مصنوعة يدويًا من قبل طفل باستخدام أشياء يومية مثل الأواني والمقالي والمطاطات.",
+        "image": "images/085.make-a-musical-instrument-from-objects/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "86",
+        "title-en": "Create a sidewalk chalk mural",
+        "title-ar": "إنشاء لوحة جدارية بالطباشير على الرصيف",
+        "prompt-en": "A large mural drawn on the sidewalk using colorful chalk by a child, with creative designs and patterns.",
+        "prompt-ar": "لوحة جدارية كبيرة مرسومة على الرصيف باستخدام الطباشير الملون من قبل طفل، بتصاميم وأنماط إبداعية.",
+        "image": "images/086.create-a-sidewalk-chalk-mural/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "87",
+        "title-en": "Decorate a t-shirt",
+        "title-ar": "تزيين قميص",
+        "prompt-en": "A white t-shirt decorated by a child using fabric paint, markers, and stencils to create unique designs.",
+        "prompt-ar": "قميص أبيض مزين من قبل طفل باستخدام طلاء الأقمشة والأقلام والقوالب لإنشاء تصاميم فريدة.",
+        "image": "images/087.decorate-a-t-shirt/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "88",
+        "title-en": "Make a diorama",
+        "title-ar": "صنع مجسم مصغر",
+        "prompt-en": "A small diorama scene created by a child, showing a miniature world with figures, landscapes, and details.",
+        "prompt-ar": "مشهد مجسم مصغر مصنوع من قبل طفل، يظهر عالماً مصغراً يحتوي على شخصيات ومناظر طبيعية وتفاصيل.",
+        "image": "images/088.make-a-diorama/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "89",
+        "title-en": "Create a greeting card",
+        "title-ar": "صنع بطاقة تهنئة",
+        "prompt-en": "A handmade greeting card created by a child for a special occasion, with drawings, messages, and decorations.",
+        "prompt-ar": "بطاقة تهنئة يدوية الصنع مصنوعة من قبل طفل لمناسبة خاصة، تحتوي على رسومات ورسائل وزخارف.",
+        "image": "images/089.create-a-greeting-card/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "90",
+        "title-en": "Build a birdhouse",
+        "title-ar": "بناء بيت طيور",
+        "prompt-en": "A small birdhouse built by a child using wood or cardboard, designed to hang outside for birds to live in.",
+        "prompt-ar": "بيت طيور صغير مصنوع من قبل طفل باستخدام الخشب أو الكرتون، مصمم ليعلق في الخارج لتعيش فيه الطيور.",
+        "image": "images/090.build-a-birdhouse/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "91",
+        "title-en": "Make a DIY kite",
+        "title-ar": "صنع طائرة ورقية يدوية",
+        "prompt-en": "A colorful DIY kite made by a child using paper, sticks, and string, ready to fly in the sky.",
+        "prompt-ar": "طائرة ورقية يدوية ملونة مصنوعة من قبل طفل باستخدام الورق والعصي والخيط، جاهزة للطيران في السماء.",
+        "image": "images/091.make-a-diy-kite/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "92",
+        "title-en": "Paint a picture of your favorite animal",
+        "title-ar": "رسم صورة لحيوانك المفضل",
+        "prompt-en": "A painting of a child's favorite animal, created with bright colors and bold strokes.",
+        "prompt-ar": "رسم لحيوان طفل مفضل، مرسوم بألوان زاهية وخطوط جريئة.",
+        "image": "images/092.paint-a-picture-of-your-favorite-animal/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "93",
+        "title-en": "Make a handprint craft",
+        "title-ar": "صنع حرفة بالبصمات اليدوية",
+        "prompt-en": "A handprint craft created by a child, using colorful paint to make prints and turn them into animals or objects.",
+        "prompt-ar": "حرفة باستخدام بصمات اليد مصنوعة من قبل طفل، باستخدام الطلاء الملون لعمل بصمات وتحويلها إلى حيوانات أو أغراض.",
+        "image": "images/093.make-a-handprint-craft/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "94",
+        "title-en": "Design a bookmark",
+        "title-ar": "تصميم فاصل كتب",
+        "prompt-en": "A creative bookmark designed by a child using colorful paper, drawings, and stickers.",
+        "prompt-ar": "فاصل كتب إبداعي مصمم من قبل طفل باستخدام الورق الملون والرسومات والملصقات.",
+        "image": "images/094.design-a-bookmark/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "95",
+        "title-en": "Make a paper mache sculpture",
+        "title-ar": "صنع منحوتة من الورق المعجن",
+        "prompt-en": "A paper mache sculpture created by a child, molded into shapes and painted with bright colors.",
+        "prompt-ar": "منحوتة من الورق المعجن مصنوعة من قبل طفل، مصبوبة في أشكال ومطلية بألوان زاهية.",
+        "image": "images/095.make-a-paper-mache-sculpture/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "96",
+        "title-en": "Create a treasure map",
+        "title-ar": "إنشاء خريطة كنز",
+        "prompt-en": "A detailed treasure map drawn by a child, with landmarks and clues leading to hidden treasure.",
+        "prompt-ar": "خريطة كنز مفصلة مرسومة من قبل طفل، تحتوي على معالم ودلائل تؤدي إلى كنز مخفي.",
+        "image": "images/096.create-a-treasure-map/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "97",
+        "title-en": "Make a snow globe",
+        "title-ar": "صنع كرة ثلجية",
+        "prompt-en": "A homemade snow globe created by a child using a jar, water, glitter, and a small figure inside.",
+        "prompt-ar": "كرة ثلجية يدوية الصنع مصنوعة من قبل طفل باستخدام برطمان وماء وبريق وشخصية صغيرة بالداخل.",
+        "image": "images/097.make-a-snow-globe/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "98",
+        "title-en": "Create a dreamcatcher",
+        "title-ar": "صنع ممسك الأحلام",
+        "prompt-en": "A DIY dreamcatcher made by a child using hoops, strings, and beads, hanging with colorful feathers.",
+        "prompt-ar": "ممسك أحلام يدوية الصنع مصنوعة من قبل طفل باستخدام حلقات وخيوط وخرز، معلق بريش ملون.",
+        "image": "images/098.create-a-dreamcatcher/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "99",
+        "title-en": "Make a personalized puzzle",
+        "title-ar": "صنع لغز مخصص",
+        "prompt-en": "A personalized puzzle created by a child by drawing a picture and cutting it into puzzle pieces.",
+        "prompt-ar": "لغز مخصص مصنوع من قبل طفل برسم صورة ثم قصها إلى قطع لغز.",
+        "image": "images/099.make-a-personalized-puzzle/0.jpg",
+        "video": "ye23IkKlc-4"
+    },
+    {
+        "id": "100",
+        "title-en": "Write and perform a play",
+        "title-ar": "كتابة وتمثيل مسرحية",
+        "prompt-en": "A short play written and performed by children, with imaginative costumes and props.",
+        "prompt-ar": "مسرحية قصيرة مكتوبة وممثلة من قبل الأطفال، بملابس وأدوات تخيلية.",
+        "image": "images/100.write-and-perform-a-play/0.jpg",
+        "video": "ye23IkKlc-4"
+    }
+]
