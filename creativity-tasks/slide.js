@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Check if the elements exist before using them
     if (slideContainer && progressBarFill && startStopBtn && slideTitleEn && slideTitleAr && slideImage && slideVideo && promptEn && promptAr) {
         // Fetch JSON data from external file
-        fetch('/creativity-tasks/creativity-tasks.json')
+        fetch('/children-tasks/creativity-tasks/creativity-tasks.json')
             .then(response => response.json())
             .then(data => {
                 tasks = data;
