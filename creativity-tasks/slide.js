@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Update slide content dynamically
             slideTitleEn.textContent = `${slide['id']}: ${slide['title-en']}`;
-            slideTitleAr.textContent = "`${slide['id']}: ${slide['title-ar']}`";
+            slideTitleAr.textContent = "العنوان العربي";
             slideImage.src = "/children-tasks/creativity-tasks/"slide['image'] || 'images/default-image.jpg';
             slideImage.alt = slide['title-en'];
             slideVideo.src = `https://www.youtube.com/embed/${slide['video']}`;
