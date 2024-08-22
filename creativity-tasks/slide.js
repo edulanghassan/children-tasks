@@ -17,6 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const promptEn = document.getElementById('promptEn');
     const promptAr = document.getElementById('promptAr');
 
+    slideTitleAr.textContent = "العنوان العربي";
+    
     // Check if the elements exist before using them
     if (slideContainer && progressBarFill && startStopBtn && slideTitleEn && slideTitleAr && slideImage && slideVideo && promptEn && promptAr) {
         // Fetch JSON data from external file
@@ -33,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Update slide content dynamically
             slideTitleEn.textContent = `${slide['id']}: ${slide['title-en']}`;
-            slideTitleAr.textContent = "العنوان العربي";
+            
             slideImage.src = "/children-tasks/creativity-tasks/"slide['image'] || 'images/default-image.jpg';
             slideImage.alt = slide['title-en'];
             slideVideo.src = `https://www.youtube.com/embed/${slide['video']}`;
